@@ -1,0 +1,11 @@
+
+.center {
+  width: 500px;
+  margin: 30vh auto;
+}
+
+#factorOutput {
+  font-size: 50px;
+  font-weight: bold;
+  /* text-align: center; */
+}
